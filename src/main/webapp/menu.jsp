@@ -63,7 +63,7 @@
 </style>
 </head>
 <body>
-	<form action="">
+	<form action="" method="post">
 		<div id="box1">
 			<h3>リスク・予防管理検討会</h3>
 			<p>
@@ -102,7 +102,7 @@
 			<p><button value=""class="check1">検索</button></p>
 		</div>
 	</form>
-	<form action="">
+	<form action="" method="post">
 		<div id="box2">
 			<h3>品質推進会</h3>
 			<p>
@@ -135,7 +135,7 @@
 			<p style="text-align: center;"><button value=""class="check1">検索</button></p>
 		</div>
 	</form>
-	<form action="">
+	<form action="" method="post">
 		<div id="box3">
 			<h3>対象案件一覧</h3>
 			<p>
